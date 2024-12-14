@@ -1,4 +1,4 @@
-Here are the projects which i have done in my virtual internship with #codealpha. Thank you CodeAlpha for giving me this opportunity. Following were the tasks assigned:
+Here are the projects which i have done in my virtual internship with #CODEALPHA. Thank you CodeAlpha for giving me this opportunity. Following were the tasks assigned:
 
 Task:- do-to list application 
 
